@@ -79,5 +79,5 @@ For any questions or support, please contact:
 
 
 ### Acknowledgments
-Special thanks to the C-DAC(Centre for Development of Advanced Computing) for giving me the opportunity to train in their company.
-and thanks to the PYNQ community and contributors for their support and resources.
+- Special thanks to the C-DAC(Centre for Development of Advanced Computing) for giving me the opportunity to train in their company.
+- Thanks to the PYNQ community and contributors for their support and resources.
