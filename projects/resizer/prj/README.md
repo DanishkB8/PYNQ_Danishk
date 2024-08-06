@@ -1,4 +1,4 @@
-#prj
+# prj
 
 This repository contains the necessary files to generate a bitstream file (.bit) for the PYNQ-ZU platform using Vivado. The project includes:
 - Vivado project file (.xpr)
