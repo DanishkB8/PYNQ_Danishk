@@ -14,7 +14,7 @@ Before you begin, ensure you have the following software installed on your syste
 Open a terminal and navigate to the root directory of this repository. Use the following command to start the build process:
 
 ```bash
-make all
+make
 ```
 
 This command will:
