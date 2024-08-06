@@ -11,7 +11,7 @@ Before you begin, ensure you have the following software installed on your syste
 - Vivado Design Suite 2020.2
 
 ## Running the Build Process
-Open a terminal and navigate to the root directory of this repository. Use the following command to start the build process:
+Open a terminal and navigate to the root folder of any project. Use the following command to start the build process:
 
 ```bash
 make
