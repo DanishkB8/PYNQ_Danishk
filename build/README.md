@@ -15,6 +15,7 @@ Open a terminal and navigate to the root directory of this repository. Use the f
 
 ```bash
 make all
+```
 
 This command will:
 - Run the Tcl script to create the Vivado project.
