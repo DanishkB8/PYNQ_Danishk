@@ -25,10 +25,9 @@ Before you begin, ensure you have the following:
 
 - PYNQ-ZU board
 - PYNQ software installed on the board
-- Vivado Design Suite (compatible version)
-- Vitis HLS (compatible version)
+- Vivado Design Suite 2020.2
+- Vitis HLS 2020.2
 - Jupyter Notebook environment set up
-- [Any additional software or libraries required]
 
 ### Getting Started
 
