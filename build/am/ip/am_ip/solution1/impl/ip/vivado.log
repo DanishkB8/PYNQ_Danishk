@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Aug  8 21:23:02 2024
+# Process ID: 9838
+# Current directory: /home/danishkb8/Projects/build/am/ip/am_ip/solution1/impl/ip
+# Command line: vivado -notrace -mode batch -source run_ippack.tcl
+# Log file: /home/danishkb8/Projects/build/am/ip/am_ip/solution1/impl/ip/vivado.log
+# Journal file: /home/danishkb8/Projects/build/am/ip/am_ip/solution1/impl/ip/vivado.jou
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace
+ipx::create_core: Time (s): cpu = 00:00:11 ; elapsed = 00:00:13 . Memory (MB): peak = 2401.516 ; gain = 0.000 ; free physical = 670 ; free virtual = 5160
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/tools/Xilinx/Vivado/2020.2/data/ip'.
+INFO: [Common 17-206] Exiting Vivado at Thu Aug  8 21:23:38 2024...

@@ -1,0 +1,25 @@
+
+
+================================================================
+== Synthesis Summary Report of 'am_accel'
+================================================================
++ General Information: 
+    * Date:           Thu Aug  8 21:21:31 2024
+    * Version:        2020.2 (Build 3064766 on Wed Nov 18 09:12:47 MST 2020)
+    * Project:        am_ip
+    * Solution:       solution1 (Vivado IP Flow Target)
+    * Product family: zynquplus
+    * Target device:  xczu5eg-sfvc784-1-e
+    
+
++ Performance & Resource Estimates: 
+    
+    PS: '+' for module; 'o' for loop; '*' for dataflow
+    +--------------------+------+-------+---------+--------+----------+---------+------+----------+------+----+----------+-----------+-----+
+    |       Modules      | Issue|       | Latency | Latency| Iteration|         | Trip |          |      |    |          |           |     |
+    |       & Loops      | Type | Slack | (cycles)|  (ns)  |  Latency | Interval| Count| Pipelined| BRAM | DSP|    FF    |    LUT    | URAM|
+    +--------------------+------+-------+---------+--------+----------+---------+------+----------+------+----+----------+-----------+-----+
+    |+ am_accel          |     -|  -3.42|        -|       -|         -|        -|     -|        no|     -|   -|  40 (~0%)|  119 (~0%)|    -|
+    | o VITIS_LOOP_16_1  |     -|  -7.30|        -|       -|         2|        -|     -|        no|     -|   -|         -|          -|    -|
+    +--------------------+------+-------+---------+--------+----------+---------+------+----------+------+----+----------+-----------+-----+
+

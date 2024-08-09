@@ -1,0 +1,10 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+make[2]: Entering directory '/home/danishkb8/Projects/build/am/ip/am_ip/solution1/csim/build'
+   Compiling ../../../../src/am_tb.cpp in debug mode
+   Compiling ../../../../src/am_accel.cpp in debug mode
+   Generating csim.exe
+make[2]: Leaving directory '/home/danishkb8/Projects/build/am/ip/am_ip/solution1/csim/build'
+06142436506684104126The maximum depth reached by any of the 3 hls::stream() instances in the design is 10
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Aug  8 21:23:02 2024
+# Process ID: 9838
+# Current directory: /home/danishkb8/Projects/build/am/ip/am_ip/solution1/impl/ip
+# Command line: vivado -notrace -mode batch -source run_ippack.tcl
+# Log file: /home/danishkb8/Projects/build/am/ip/am_ip/solution1/impl/ip/vivado.log
+# Journal file: /home/danishkb8/Projects/build/am/ip/am_ip/solution1/impl/ip/vivado.jou
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace
