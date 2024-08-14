@@ -45,7 +45,7 @@ Before you begin, ensure you have the following:
 3. **Set up hardware designs:**
 
 - Use Vivado to open and modify hardware design files located in the hardware directory.
-- Use Vitis HLS to compile and synthesize high-level code for the FIR function accelerator.
+- Use Vitis HLS to compile and synthesize high-level code for creating a custom IP
 4. **Upload notebooks to your PYNQ-ZU board:**
 - Transfer the notebooks from the PYNQ_Danishk directory to the appropriate location on your PYNQ-ZU board.
 5. **Open Jupyter Notebook:**
