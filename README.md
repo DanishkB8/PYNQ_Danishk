@@ -10,6 +10,8 @@ The PYNQ_Danishk repository contains Jupyter notebooks and projects designed for
 - **Image Resizer**: Demonstrates resizing images using the PYNQ-ZU board.
 - **Basic Program**: An introductory notebook with fundamental programming concepts.
 - **FIR Function Accelerator**: Implements a FIR filter accelerator to enhance signal processing performance.
+- **Amplitude Modulation** : Implementing modulation of sinusoidal signal using Pynq ZU
+- **Hardware Accelerated FFT** : Performing FFT(Fast Fourier Transform) using Vivado FFT IP core
 
 ## Tools Used
 
